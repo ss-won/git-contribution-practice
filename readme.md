@@ -5,17 +5,17 @@ git 사용과 협업 연습을 위한 repository입니다.
 
 ## SETTING GUIDE
 
-1. `fork` this repositroy. (fork button is in top near to `star` button) <br />
+1. **`fork` this repositroy. (fork button is in top near to `star` button)** <br />
    이 repository를 fork 하세요. (fork 버튼은 상단 star 버튼 근처에 있습니다.)
-2. Clone your forked repository. <br />
+2. **Clone your forked repository.** <br />
    본인 프로필에 fork된 repository를 clone 받으세요.
-3. Check remote detail as `git remote -v`. <br />
+3. **Check remote detail as `git remote -v`.** <br />
    `git remote -v` 명령어를 통해 상세 내용을 확인하세요.
 
 - upstream : this repository
 - origin : your forked repository
 
-4. Solve 3 missions below and make Pull Requests. <br />
+4. **Solve 3 missions below and make Pull Requests.** <br />
    아래 3개의 미션을 해결하고, Pull Request를 작성하세요.
 
 - if your request is correct, it will merged by maintainer. (success) <br />
@@ -27,12 +27,12 @@ git 사용과 협업 연습을 위한 repository입니다.
 
 ### Mission 1
 
-issue #1
+[issue #1](https://github.com/ss-won/git-contribution-practice/issues/1)
 
 ### Mission 2
 
-issue #2
+[issue #2](https://github.com/ss-won/git-contribution-practice/issues/2)
 
 ### Mission 3
 
-issue #3
+[issue #3](https://github.com/ss-won/git-contribution-practice/issues/3)
