@@ -15,8 +15,8 @@ git 사용과 협업 연습을 위한 repository입니다.
 - upstream : this repository
 - origin : your forked repository
 
-4. Solve 6 missions below and make Pull Requests. <br />
-   아래 6개의 미션을 해결하고, Pull Request를 작성하세요.
+4. Solve 3 missions below and make Pull Requests. <br />
+   아래 3개의 미션을 해결하고, Pull Request를 작성하세요.
 
 - if your request is correct, it will merged by maintainer. (success) <br />
   요청이 올바르다면, maintainer가 해당 요청을 merge 할 겁니다. (미션 성공)
@@ -36,15 +36,3 @@ issue #2
 ### Mission 3
 
 issue #3
-
-### Mission 4
-
-issue #4
-
-### Mission 5
-
-issue #5
-
-### Mission 6
-
-issue #6
